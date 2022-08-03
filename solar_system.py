@@ -21,6 +21,7 @@ class Planet:
     SCALE = 200 / AU # small value to scale down the solar system to fit it on the screen
     TIMESTEP = 60 * 60 * 24 # 1 day
 
+    # Constructor
     def __init__(self, x, y, radius, color, mass):
         self.x = x # x position
         self.y = y # y position
@@ -33,6 +34,7 @@ class Planet:
         self.x_speed = 0 # x velocity
         self.y_speed = 0 # y velocity
 
+    # 
     def draw(self, SCREEN):
         # divide by two because pygame (0, 0) is the top left corner
         x = self.x * self.SCALE + WIDTH / 2 # x position on screen
