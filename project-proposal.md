@@ -9,15 +9,17 @@ Our research project is based on the current physical detail of solar system.
 
 ## Technical Approach 
 - Language of programming: mainly python
-- Package requirements: matplotlib, numpy, scipy, pygame
+- Package requirements: matplotlib, numpy, scipy, pygame, math
 
 ## References
 - https://towardsdatascience.com/simulate-a-tiny-solar-system-with-python-fbbb68d8207b 
 - https://thepythoncodingbook.com/2021/12/11/simulating-3d-solar-system-python-matplotlib/ 
 
 ## Division of Responsibilities
-Ian: Responsible for simulation part of the project
-Yi-Jhan: Responsible for Analysis part of the project
+- Ian Chang: Responsible for simulation part of the project
+- Yi-Jhan Huang: Responsible for analysis part of the project
+- Both: Topic Chose and Structure Design
+
 
 
 # Proposal Context
