@@ -1,7 +1,7 @@
 # Physics 77 Capstone Project Proposal
 
 ## Overview
-- Title of the Research: Simulation of a solar system with animation using matplotlib
+- Title of the Research: Simulation of a solar system with animation using pygame and analyse using matplotlib
 - Group member: Yi-Jhan Huang, Ian Chang
 
 ## Abstract:
