@@ -34,7 +34,7 @@ class Planet:
         self.x_speed = 0 # x velocity
         self.y_speed = 0 # y velocity
 
-    # 
+    # Draw line function for the updated_points
     def draw(self, SCREEN):
         # divide by two because pygame (0, 0) is the top left corner
         x = self.x * self.SCALE + WIDTH / 2 # x position on screen
